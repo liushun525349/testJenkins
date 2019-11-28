@@ -16,6 +16,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "hello jenkins ¡ıÀ≥ haha  "+LocalDateTime.now().toString();
+        return "hello jenkins  liushun !!!!!  "+LocalDateTime.now().toString();
     }
 }
